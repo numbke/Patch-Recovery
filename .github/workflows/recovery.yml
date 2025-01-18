@@ -9,7 +9,7 @@ on:
         default: 'https://transfer.sh/(RECOMMENDED)'
 
 env:
-  RECOVERY_URL: https://oshi.at/Rpjg
+  RECOVERY_URL: https://limewire.com/d/f63a0106-3ff8-48f3-9b7e-b99c8f0b9295#_DywyuBypjqyPJiSnhDn_46WuucGqJzjF3wBZHR8jqU
 
 jobs:
   build:
